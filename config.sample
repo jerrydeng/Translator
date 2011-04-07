@@ -1,0 +1,5 @@
+CONFIGURATIONS = {
+  :key => "AIzaSyAlNaJLciXGdEogCW46xbJpgtVHW8QAPVc",
+  :source_language => "en",
+  :destination_language => "zh"
+}
